@@ -1,0 +1,4 @@
+//step 1 - wrong, it should be 342190
+//step 2 - OK, it's exactly the amount of lines in the file when opening with a text editor.
+//step 3 - OK.
+//step 4 - 
